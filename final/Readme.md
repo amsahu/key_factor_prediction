@@ -1,4 +1,5 @@
 # Key factor prediction for candidature
+The task was to identify correct factor that may impact to the candidature of job applicants. For example, person ‘A’ is from tier 1 college, but do not have any experiences. In this case college should be the key factor which adds bias to person A’s candidature. There was more information which needs to be predicted, that was fitment percent. Fitment percent denotes the intensity of the bias added by bias influence factor.
 
 ### Model Architecture
 
